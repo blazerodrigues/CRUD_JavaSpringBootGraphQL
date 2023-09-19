@@ -1,4 +1,4 @@
-# Java Spring Boot - GraphQL (CRUD example)
+# Java Spring Boot - GraphQL (CRUD example) 
 <br/>
 # 1 CREATE
 <br/>
